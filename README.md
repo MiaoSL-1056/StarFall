@@ -1,7 +1,6 @@
-星落虚空回响
-
+**星落虚空回响**
+------
 一款基于 Three.js 的 HTML5 3D游戏
-
 
 许可证
 
@@ -9,15 +8,12 @@
 Copyright (c) 2026 MiaoSL  
 详情请见 [LICENSE](LICENSE) 文件。
 
-
-技术栈
-
-Three.js
-
-原生 JavaScript
+技术栈:
+- Three.js
+- 原生 JavaScript
 
 
-作者
+作者:
 MiaoSL
 
 
